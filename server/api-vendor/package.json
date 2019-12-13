@@ -23,6 +23,7 @@
       "ws": "^7.2.0"
    },
    "scripts": {
+      "start" : "ts-node ./src/index.ts",
       "dev": "nodemon"
    }
 }
