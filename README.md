@@ -4,11 +4,20 @@ The idea is simple.
 - Collect the data
 - ... profit???
 
+# Useless Rating
+3/10
+
+# What Is It?
+A Javascript / TypeScript (semi) IoT design allowing for simple and easy deployment to multiple endpoints.
+
+# What Can It Do?
+It can relay data to a backend dashboard. That's it.
+
 # Scenario
 Your business owns a handful of toilet cubicles across a plaza. You want to know how clean they are from customer satisfaction reviews. But instead of hanging around a public toilet asking customers how they're visit was, why not use a Kiosk? Granted the sanitary factor of this is very low, and actually poses a risk to customers Health & Saftey... so maybe use it for someting else.... The world's your hygenic oyster.
 
-# How It Works
-This project is comprised of three endpoints.
+# Okay, So What Now? How Do I Get It Running?
+You'll need to run all three scripts at once to see the full magic!
 - [Kiosk Endpoint](#Kiosk-Endpoint)
 - [API Endpoint](#API-Endpoint)
 - [Dashboard](#Dashboard)
@@ -43,3 +52,10 @@ cd ./dashboard
 npm i
 npm start
 ```
+
+## Hardware
+- Any Desktop OS
+
+## Software
+- NodeJS
+- postgreSQL
