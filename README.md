@@ -29,7 +29,7 @@ This endpoint allows for the user to interface with a series of buttons containi
 The semantic words are distributed by the API Endpoint.
 
 ```
-cd ./kiosk
+cd ./client
 npm i
 npm start
 ```
